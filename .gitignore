@@ -1,0 +1,14 @@
+*.idea
+*.class
+*.log
+*.sc
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings/
+.worksheet/
+bin/
+project/
+target/
+classes/
